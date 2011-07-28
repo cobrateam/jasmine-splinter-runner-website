@@ -9,8 +9,8 @@ a:hover {
 }
 #header {
     padding: 10px 0 50px 0;
-    border-bottom: 4px solid #b42f14;
-    background-color: #5d6266;
+    border-bottom: 4px solid #8bb94e;
+    background-color: #e8f2e4;
     color: #fff;
 }
 #header .header-container {
@@ -41,13 +41,13 @@ a:hover {
 .nav li a {
     float: left;
     padding: 20px;
-    background-color: #b42f14;
+    background-color: #8bb94e;
     color: #fff;
     text-decoration: none;
 }
 
 .nav li a:hover {
-    background-color: #411200;
+    background-color: #5D6266;
     text-decoration: underline;
 }
 
@@ -88,7 +88,7 @@ a:hover {
 }
 
 #page h4 {
-    color: #B42F14;
+    color: #8bb94e;
     font-weight: bold;
     margin: 0 20px;
 }
@@ -97,7 +97,7 @@ a:hover {
     -moz-border-radius: 5px;
     -webkit-border-radius: 5px;
     border-radius: 5px;
-    background-color: #B42F14;
+    background-color: #8bb94e;
     font-size: 24px;
     margin: 0 0 20px 0;
     padding: 20px 0;
@@ -155,12 +155,12 @@ a:hover {
 
 #page #main .features li {
     margin: 0 0 7px 13px;
-    color: #B42F14;
+    color: #8bb94e;
     list-style: square;
 }
 
 #page #main .started a {
-    color: #B42F14;
+    color: #8bb94e;
 }
 
 #footer {
